@@ -8,6 +8,10 @@ O projeto conta com uma landing page de um escritório de arquitetura, no qual p
 O projeto pode ser acessado pelo link a seguir: <br>
 landingarqui.netlify.app
 
+Outros dados: <br>
+Link planilha formulário <br>
+https://docs.google.com/spreadsheets/d/1CfQzMGupv7M3wLHbIkRsjI2Y94wneeWRgzMv32rNezY/edit?gid=0#gid=0
+
 
 
 #Autor(a)
